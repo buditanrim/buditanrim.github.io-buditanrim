@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Happy Jekylling!"
+title: "Home"
 ---
 
 ## Hello. I'm working on my new portfolio

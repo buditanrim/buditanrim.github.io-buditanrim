@@ -9,7 +9,6 @@ cd / [drop the folder]
 # To start the server
 sudo bundle exec jekyll serve --draft --livereload
 
-
 # Visit local
 http://localhost:4000/
 
